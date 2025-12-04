@@ -82,7 +82,7 @@ def perimetro():
                     print("Le lunghezze non possono essere negative o zero.")
                     continue
                 
-                #
+                
                 if base_minore >= base_maggiore:
                     print(" La Base Minore deve essere inferiore alla Base Maggiore in un trapezio.")
                     continue
